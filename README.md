@@ -3,18 +3,18 @@
 It as a training project to work on MySQL Database
 
 ## Technologies
-#### Project is created with:
-#### node.js
-#### express.js
-#### MySQL
-#### Sequelize ORM
-#### ejs (template engine)
-#### Bootstrap 5
-#### font-awesome
+> Project is created with:
+- [x] node.js
+- [x] express.js
+- [x] MySQL
+- [x] Sequelize ORM
+- [x] ejs (template engine)
+- [x] Bootstrap 5
+- [x] font-awesome
 *
-#### the project is made with MVC design pattern
+> the project is made with MVC design pattern
 
 ## Setup
-#### To run this project, install it locally using npm:
-#### $ npm install
-#### $ npm start
+To run this project, install it locally using npm:
+- $ npm install
+- $ npm start
